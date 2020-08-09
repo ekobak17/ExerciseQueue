@@ -1,6 +1,6 @@
 /*
  * Author: Ellie Kobak
- * project 7: exercise queue
+ * project exercise queue
  * usage: ./exerciseQueue file.in | diff - file.out
  */
 
